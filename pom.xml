@@ -12,6 +12,7 @@
 	<artifactId>Provider_Rest_1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Provider_Rest_1</name>
+	<packaging>jar</packaging>
 	<description>Demo for rest api</description>
 	<properties>
 		<java.version>17</java.version>
